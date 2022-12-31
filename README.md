@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
+Added Some screens here.
+
+![](https://github.com/pawankv89/angular-okta-login/blob/master/images/screen_1.png)
+![](https://github.com/pawankv89/angular-okta-login/blob/master/images/screen_2.png)
+![](https://github.com/pawankv89/angular-okta-login/blob/master/images/screen_3.png)
+![](https://github.com/pawankv89/angular-okta-login/blob/master/images/screen_4.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
