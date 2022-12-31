@@ -1,0 +1,17 @@
+<p>
+  This route is protected with the <code>OktaAuthGuard</code> component, which will ensure that this page cannot be accessed until you have authenticated.
+</p>
+<table class="ui table">
+  <thead>
+    <tr>
+      <th>Claim</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let claim of claims">
+      <td>{{claim.name}}</td>
+      <td id="claim-{{claim.name}}">{{claim.value | json}}</td>
+    </tr>
+  </tbody>
+</table>
